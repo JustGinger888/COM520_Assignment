@@ -6,6 +6,14 @@
 
 For this project, I decided to incorporate both TCD and UCD aspects within the overall design. The tasks must be simple and straightforward with no complexities, functioning in an ordered manner each accessible with no prior knowledge of the pages or site. The user-centered aspect comes in form of relevant illustrations and well laid out forms, each unique and non-dependant on the previous. My reasoning for this is because job seekers and employers alike do not want to struggle with the creation of accounts and doing their respective tasks. Even so, we live in a visually centered world where if there is an abundance of text or visually unappealing aspects to a site, it would immediately be judged and often categorized as unprofessional, leading to a lack of user engagement.
 
+---
+
+### Analysis of Sites
+
+The Attached Excel Document analyses various other job sites and critically analyses them.
+
+---
+
 ### User Group
 
 The website is done for the Steady Paycheck Agency, which focuses on advertising and pushing jobs in the field of Information Technology to graduates with a relevant background. Hence there will be two user groups which I will be discussing below, Employers & Job Seekers.
@@ -144,5 +152,10 @@ As I am relatively inexperienced with this tool, especially for a project of thi
 
 [https://xd.adobe.com/view/8c4b7818-08ca-4b0e-bec9-bb5afca0440e-d918/](https://xd.adobe.com/view/8c4b7818-08ca-4b0e-bec9-bb5afca0440e-d918/)
 
+---
 
-Corrected with https://www.spell-checker.uk/
+## Testing & Integration
+
+Part three will be to test the final product, collect feedback and reflect on the interface towards more progressive design. As GUI testing techniques vary in terms of scale and scope, you need to select the best testing approach in order to determine how the application and the user interact and whether the application performs properly. Testing typically includes how the application handles keyboard and mouse input and how it displays screen text, images, buttons, menus, dialog boxes, icons and toolbars. Functional testing is commonly done by human testers, but is made a lot easier and more reliable by automated testing tools. Your prototype will probably only be intended to test a portion of the design. The report documentation should identify the following with regard to the prototypes:
+
+In order to test your proof of concept (Prototype), you need to get 5 participants to fill in the following table individually. 
