@@ -154,6 +154,16 @@ As I am relatively inexperienced with this tool, especially for a project of thi
 
 ---
 
+## Logo
+
+For the logo I decided to make use of a simple circular logo with cursive SP to represent the Simple Paycheck company. The purple colour is a symbol of leisure and elegance and show the sophistication of the situation.
+
+![Logo Small](md\SmallLogo.png)
+
+![Logo Large](md\LargeLogo.png)
+
+---
+
 ## Testing & Integration
 
 Part three will be to test the final product, collect feedback and reflect on the interface towards more progressive design. As GUI testing techniques vary in terms of scale and scope, you need to select the best testing approach in order to determine how the application and the user interact and whether the application performs properly. Testing typically includes how the application handles keyboard and mouse input and how it displays screen text, images, buttons, menus, dialog boxes, icons and toolbars. Functional testing is commonly done by human testers, but is made a lot easier and more reliable by automated testing tools. Your prototype will probably only be intended to test a portion of the design. The report documentation should identify the following with regard to the prototypes:
