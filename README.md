@@ -156,16 +156,35 @@ As I am relatively inexperienced with this tool, especially for a project of thi
 
 ## Logo
 
-For the logo I decided to make use of a simple circular logo with cursive SP to represent the Simple Paycheck company. The purple colour is a symbol of leisure and elegance and show the sophistication of the situation.
+For the logo, I decided to make use of a simple circular logo with cursive SP to represent the Simple Paycheck company. The purple colour is a symbol of leisure and elegance and shows the sophistication of the situation.
 
-![Logo Small](md\SmallLogo.png)
-
-![Logo Large](md\LargeLogo.png)
+|![Logo Small](md\SmallLogo.png)|![Logo Large](md\LargeLogo.png)|
+|---|---|
+|Icon Size|Full Size|
 
 ---
 
 ## Testing & Integration
 
-Part three will be to test the final product, collect feedback and reflect on the interface towards more progressive design. As GUI testing techniques vary in terms of scale and scope, you need to select the best testing approach in order to determine how the application and the user interact and whether the application performs properly. Testing typically includes how the application handles keyboard and mouse input and how it displays screen text, images, buttons, menus, dialog boxes, icons and toolbars. Functional testing is commonly done by human testers, but is made a lot easier and more reliable by automated testing tools. Your prototype will probably only be intended to test a portion of the design. The report documentation should identify the following with regard to the prototypes:
+### Participant Reviews
 
-In order to test your proof of concept (Prototype), you need to get 5 participants to fill in the following table individually. 
+To test my proof of concept Prototype, I had 5 willing participants individually fill out the tables listed below. giving me a clear indication of their experience with the prototype.
+
+|![Amy](md\AmyReview.png)|![Diogo](md\DiogoReview.png)|
+|---|---|---|---|
+|![Cristiano](md\CristianoReview.png)|![Emily](md\EmilyReview.png)|
+|![Brad](md\BradReview.png)|
+
+### Metacritic
+
+After tallying up the scores from the reviews above I was able to determine the average experience with the prototype accordingly. Allowing me to see first hand which areas I should improve on if I wish to continue with this project.
+
+![MetaCritic](md/MetaCritic.png)
+
+To improve on this prototype the first thing that would need to be addressed is the addition of dummy data for demonstration purposes. Due to my lack of knowledge in using the tool I could not find a way for users to actually input data in the prototype and check whether it matches a set of data for either job seekers and employers. Moreover, the Job search displays 5 records upon clicking but are not individually addressable. This is something that could be achieved through better knowledge of the software and experience in designing as I read up about hover states in the documentation but couldn't quite figure out how they work. If these were however added my overall score would definitely have bettered itself.
+
+As for the system keeping users informed about what is going on, through appropriate feedback, I could have improved this by including more responsive popups for each button click or again utilise hover states to change colour upon hover. This would have visually indicated the interactivity of the system buttons and drastically reduced the number of pages I added to the prototype, as the current system changes button colours only after the click. Tooltips could also have allowed the system to visually indicate what data is required or the destination buttons, such as the continue found in CV creation, would have taken users.
+
+Ensuring the prototype contents are more relevant and displayed according to HCI theories would have been achievable by better repositioning some buttons on forms. At current some buttons such as the submit and delete ones on employers listing modal are quite far apart, meaning users would have to use longer mice drags to reach destination buttons. Simply putting them next to one another would have made this much more user friendly and increase ease of use.
+
+However, the overall perception of my prototype is relatively positive with a large emphasis on the usability of the project. This is quite an achievement for me as I am not familiar with the design of this sort. With a better knowledge of the Adobe XD prototyping tool I would have been able to improve this score. However, for now, I would call the project a success and one that sufficiently sets out to achieve its initial purpose.
