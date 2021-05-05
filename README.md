@@ -1,4 +1,4 @@
-# COM520 Assignment
+# [COM520 Assignment](https://github.com/JustGinger888/COM520_Assignment)
 
 ## Introduction
 
